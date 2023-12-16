@@ -1,5 +1,5 @@
 {
-  "name": "generate-code",
+  "name": "generate-code-gemini",
   "displayName": "Generate code",
   "description": "Generate code using Gemini API",
   "publisher": "ShishirRegmi",
