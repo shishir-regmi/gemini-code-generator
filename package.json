@@ -1,6 +1,6 @@
 {
   "name": "generate-code-gemini",
-  "displayName": "Generate code",
+  "displayName": "Generate Code using Gemini",
   "description": "Generate code using Gemini API",
   "publisher": "ShishirRegmi",
   "repository": "https://github.com/shishirregmi/gemini-code-generator.git",
@@ -22,7 +22,7 @@
       },
       {
         "command": "extension.saveToken",
-        "title": "Save Token"
+        "title": "Save Gemini Token"
       }
     ],
     "keybindings": [
