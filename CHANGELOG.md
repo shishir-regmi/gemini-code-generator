@@ -2,9 +2,11 @@
 
 All notable changes to this Generate Code using Gemini will be documented in this file.
 
-## [0.1.0]
+## [0.2.0] - 2023-12-16
 
-### Added
+### Changed
+
+- Fixed License Error in Readme
 
 ## [0.1.0] - 2023-12-16
 
