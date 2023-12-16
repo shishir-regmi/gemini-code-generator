@@ -24,7 +24,7 @@ The generated code will replace the selected prompt.
 
 ## Contributing
 
-Contributions are welcome! Please create an [issue](https://github.com/your-username/gemini-code-generator/issues) before submitting a pull request.
+Contributions are welcome! Please create an [issue](https://github.com/shishirregmi/gemini-code-generator/issues) before submitting a pull request.
 
 ## License
 
