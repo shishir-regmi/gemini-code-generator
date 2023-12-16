@@ -30,4 +30,4 @@ Contributions are welcome! Please create an [issue](https://github.com/shishirre
 
 ## License
 
-This extension is licensed under the MIT License.
+This extension is licensed under the GPL-3.0 License.
