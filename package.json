@@ -4,6 +4,7 @@
   "description": "Generate code using Gemini API",
   "publisher": "ShishirRegmi",
   "repository": "https://github.com/shishirregmi/gemini-code-generator.git",
+  "icon": "icon.png",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.85.0"

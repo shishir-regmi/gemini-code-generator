@@ -1,5 +1,7 @@
 # Gemini Code Generator
 
+![Alt text](https://github.com/shishirregmi/gemini-code-generator/image.png "a title")
+
 This Visual Studio Code extension allows you to easily generate code from prompts using the Gemini AI model.
 
 ## Features
