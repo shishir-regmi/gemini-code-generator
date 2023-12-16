@@ -5,7 +5,7 @@
   "publisher": "ShishirRegmi",
   "repository": "https://github.com/shishirregmi/gemini-code-generator.git",
   "icon": "icon.png",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "engines": {
     "vscode": "^1.85.0"
   },
