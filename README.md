@@ -13,6 +13,7 @@ This Visual Studio Code extension allows you to easily generate code from prompt
 
 ![Alt text](SaveToken.gif "Gemini Code Generator")
 
+* Get a Gemini token from [here](https://makersuite.google.com/app/apikey).
 * Press `Ctrl`+`Shift`+`P`.
 * Save your Gemini token securely using the command `Save Gemini Token`.
 * Write your `token` in the input box and press `Enter`.

@@ -2,7 +2,15 @@
 
 All notable changes to this Generate Code using Gemini will be documented in this file.
 
-## [0.3.0] - 2023-12-16
+## [0.5.0] - 2023-12-18
+
+- Updated Readme
+
+## [0.4.0] - 2023-12-18
+
+- Reduced example file size
+
+## [0.3.0] - 2023-12-17
 
 - Added examples in Readme
 
