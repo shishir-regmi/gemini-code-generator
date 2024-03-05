@@ -1,6 +1,9 @@
 # Changelog
 
 All notable changes to this Generate Code using Gemini will be documented in this file.
+## [0.5.0] - 2023-12-18
+
+- Changed default keyboard shortcut from `ctrl + shift + 0` to `ctrl + shift + 9`
 
 ## [0.5.0] - 2023-12-18
 
