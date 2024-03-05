@@ -24,7 +24,7 @@ This Visual Studio Code extension allows you to easily generate code from prompt
 
 1. Open a new or existing project in Visual Studio Code.
 2. Write a prompt in the editor and select it.
-3. Press `Ctrl`+`Shift`+`0` to generate code.
+3. Press `Ctrl`+`Shift`+`9` to generate code or Press `Ctrl`+`Shift`+`P` and select `Generate Code using Gemini API` to generate code.
 
 The generated code will replace the selected prompt.
 

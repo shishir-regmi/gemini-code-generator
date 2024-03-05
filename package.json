@@ -5,7 +5,7 @@
   "publisher": "ShishirRegmi",
   "repository": "https://github.com/shishirregmi/gemini-code-generator.git",
   "icon": "icon.png",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "engines": {
     "vscode": "^1.85.0"
   },
@@ -28,8 +28,8 @@
     "keybindings": [
       {
         "command": "extension.generateCode",
-        "key": "ctrl+shift+0",
-        "mac": "cmd+shift+0",
+        "key": "ctrl+shift+9",
+        "mac": "cmd+shift+9",
         "when": "editorTextFocus"
       }
     ],
